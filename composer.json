@@ -1,8 +1,8 @@
 {
-	"name": "matteocacciola/php-trello-api",
+	"name": "dyaskur/php-trello-api",
 	"type": "library",
 	"description": "Trello API v2 client",
-	"homepage": "https://github.com/matteocacciola/php-trello-api",
+	"homepage": "https://github.com/dyaskur/php-trello-api",
 	"keywords": ["trello"],
 	"license": "MIT",
 	"authors": [
@@ -17,7 +17,7 @@
 	],
 	"require": {
 		"php": ">=7.4",
-		"guzzlehttp/guzzle": "~5.3"
+		"guzzlehttp/guzzle": ">=5.3"
 	},
 	"require-dev": {
 		"phpunit/phpunit": "^4.8"
